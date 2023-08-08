@@ -13,10 +13,10 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
+        - title: Social Prescribing Masterclass with International Experts
+          description: Social Prescribing Materclass.
+          url: https://www.singhealth.com.sg/SCH/about-us/community-partnerships/Pages/masterclass.aspx
+        - title: Community of Practice
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Page A
