@@ -1,8 +1,10 @@
 ---
 layout: homepage
-title: Community of Practice
-description: Community of Practice in Singapore
-image: /images/isomer-logo.svg
+title: SINGAPORE COMMUNITY OF PRACTICE IN SOCIAL PRESCRIBING
+description: Built on the foundation of best practices in knowledge sharing,
+  community engagement, and inter-sectoral collaboration, SCOMP aims to enhance
+  effectiveness of social prescribing initiatives in Singapore.
+image: /images/singapore community of practice in social prescribing.png
 permalink: /
 notification: ""
 sections:
