@@ -8,11 +8,11 @@ notification: ""
 sections:
   - hero:
       title: SINGAPORE COMMUNITY OF PRACTICE IN SOCIAL PRESCRIBING
-      subtitle: "A collaborative network of healthcare professionals, community
+      subtitle: A collaborative network of healthcare professionals, community
         leaders, and practitioners committed to advancing social prescribing in
-        Singapore. "
+        Singapore.
       background: /images/hero-banner.png
-      button: Contact Us
+      button: JOIN Us
       url: /contact-us/
       key_highlights:
         - title: ABOUT
