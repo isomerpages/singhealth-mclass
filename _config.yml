@@ -1,8 +1,8 @@
-title: Community of Practice
+title: SINGAPORE COMMUNITY OF PRACTICE IN SOCIAL PRESCRIBING
 url: https://www.socialprescribing.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/singapore community of practice in social prescribing.png
 colors:
-  primary-color: "#6031b6"
+  primary-color: "#d04a02"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
@@ -15,7 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: Community of Practice in Singapore
+description: Built on the foundation of best practices in knowledge sharing,
+  community engagement, and inter-sectoral collaboration, SCOMP aims to enhance
+  effectiveness of social prescribing initiatives in Singapore.
 permalink: none
 baseurl: ""
 exclude:
@@ -52,8 +54,8 @@ plugins:
 staging: https://staging.dysll6ah8iy92.amplifyapp.com
 prod: https://master.dysll6ah8iy92.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
-is_government: false
+shareicon: /images/singapore community of practice in social prescribing.png
+is_government: true
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
