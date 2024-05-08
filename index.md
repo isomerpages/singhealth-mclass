@@ -4,24 +4,29 @@ title: Community of Practice
 description: Community of Practice in Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Community of Practice
-      subtitle: Hero subtitle
+      title: SINGAPORE COMMUNITY OF PRACTICE IN SOCIAL PRESCRIBING
+      subtitle: "A collaborative network of healthcare professionals, community
+        leaders, and practitioners committed to advancing social prescribing in
+        Singapore. "
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Social Prescribing Masterclass with International Experts
-          description: Social Prescribing Materclass.
-          url: https://www.singhealth.com.sg/SCH/about-us/community-partnerships/Pages/masterclass.aspx
-        - title: Community of Practice
-          description: Important highlight B is equally important
+        - title: ABOUT
+          description: ""
+          url: ""
+        - title: TRAININGS
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: EVENTS
+          description: ""
           url: /privacy/
+        - title: RESOURCES
+          description: ""
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
