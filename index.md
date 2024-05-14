@@ -8,8 +8,8 @@ image: /images/singapore community of practice in social prescribing.png
 permalink: /
 notification: '"More than 80 percent of health outcomes are related to
   non-medical factors –  these are conditions in which people are born, grow,
-  work, live and age, also known as social determinants of health.Social
-  prescribing addresses these social determinants of health by linking patients
+  work, live and age, also known as Social Determinants of Health. Social
+  prescribing addresses these Social Determinants of Health by linking patients
   and clients to community assets to improve wellbeing."'
 sections:
   - hero:
@@ -17,7 +17,7 @@ sections:
       subtitle: A collaborative network of healthcare professionals, community
         leaders, and practitioners committed to advancing social prescribing in
         Singapore.
-      background: /images/hero-banner.png
+      background: /images/Home.png
       button: JOIN Us
       url: /contact-us/
       key_highlights:
@@ -34,8 +34,10 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
       button: Button text
       url: /faq/
+  - resources:
+      title: THE 5 PRINCIPLES
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
