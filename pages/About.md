@@ -4,6 +4,14 @@ permalink: /example-page/
 variant: tiptap
 description: Singapore community of practice
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/show_a_pair_of_old_hands_doing_color_pencil_coloring.jpg">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="514" width="914" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/opBf4foaQ8Y"></iframe>
+</div>
+<p></p>
 <p>OUR
 <br>PURPOSE</p>
 <p>The purpose of the Singapore Community of Practice in Social Prescribing
