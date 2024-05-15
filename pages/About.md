@@ -12,8 +12,12 @@ description: Singapore community of practice
 <iframe height="514" width="914" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/opBf4foaQ8Y"></iframe>
 </div>
 <p></p>
-<p>OUR
-<br>PURPOSE</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/singapore community of practice in social prescribing.png">
+</div>
+<blockquote>
+<h2><strong>OUR PURPOSE</strong></h2>
+</blockquote>
 <p>The purpose of the Singapore Community of Practice in Social Prescribing
 (SCOMP) is to foster a dynamic and collaborative ecosystem where diverse
 stakeholders, including healthcare professionals, community leaders, researchers,
@@ -23,7 +27,9 @@ serves as a platform for sharing knowledge, exchanging best practices,
 and co-creating innovative strategies that enhance well-being, strengthen
 community connections, and promote holistic health through the integration
 of arts, culture, and community engagement.</p>
-<h2>OUR<br>VISION</h2>
+<blockquote>
+<h2><strong>OUR VISION</strong></h2>
+</blockquote>
 <p>Through vibrant interactions and meaningful partnerships, SCOMP envisions
 a future where social prescribing becomes an integral and accessible part
 of healthcare, enhancing quality of life, addressing health disparities,
