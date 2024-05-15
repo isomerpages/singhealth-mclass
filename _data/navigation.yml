@@ -5,3 +5,5 @@ links:
     sublinks:
       - title: About SCOMP
         url: /permalink
+  - title: New resource room
+    resource_room: true
