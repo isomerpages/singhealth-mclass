@@ -19,7 +19,7 @@ sections:
       key_highlights:
         - title: ABOUT
           description: ""
-          url: https://cms.isomer.gov.sg/sites/singhealth-mclass/editPage/example-page.md
+          url: /example-page.md
         - title: TRAININGS
           description: ""
           url: ""
