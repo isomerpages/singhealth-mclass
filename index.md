@@ -29,9 +29,6 @@ sections:
         - title: RESOURCES
           description: ""
           url: ""
-  - announcements:
-      title: UPCOMING EVENTS
-      id: announcements
   - infopic:
       title: UPCOMING EVENTS
       id: infopic
