@@ -32,10 +32,12 @@ sections:
   - announcements:
       title: UPCOMING EVENTS
       id: announcements
-      announcement_items:
-        - title: Asia Pacific Social Prescribing Conference 2024
-          date: 28 November 2024
-          announcement: Announcement content
-          link_text: APCSPC
-          link_url: https://form.gov.sg/65b719e63f3702432ba8e892
+  - infopic:
+      title: UPCOMING EVENTS
+      id: infopic
+      description: Asia Pacific Social Prescribing Conference 2024
+      button: Click to register
+      url: https://form.gov.sg/65b719e63f3702432ba8e892
+      image: /images/TEST_88_width_edited.jpg
+      alt: Image alt text
 ---
