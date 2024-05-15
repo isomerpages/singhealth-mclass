@@ -32,7 +32,6 @@ sections:
   - announcements:
       title: UPCOMING EVENTS
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Asia Pacific Social Prescribing Conference 2024
           date: 28 November 2024
