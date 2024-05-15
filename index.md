@@ -29,4 +29,14 @@ sections:
         - title: RESOURCES
           description: ""
           url: ""
+  - announcements:
+      title: UPCOMING EVENTS
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Asia Pacific Social Prescribing Conference 2024
+          date: 28 November 2024
+          announcement: Announcement content
+          link_text: APCSPC
+          link_url: https://form.gov.sg/65b719e63f3702432ba8e892
 ---
