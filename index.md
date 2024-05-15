@@ -23,7 +23,7 @@ sections:
       key_highlights:
         - title: ABOUT
           description: ""
-          url: ""
+          url: https://cms.isomer.gov.sg/sites/singhealth-mclass/resourceRoom/about/resourceCategory/about-scomp/editPage/2024-05-14-post-SCOMP.md
         - title: TRAININGS
           description: ""
           url: https://gmail.com
@@ -33,11 +33,4 @@ sections:
         - title: RESOURCES
           description: ""
           url: ""
-  - infobar:
-      button: Button text
-      url: /faq/
-  - resources:
-      title: THE 5 PRINCIPLES
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
