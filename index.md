@@ -6,11 +6,7 @@ description: Built on the foundation of best practices in knowledge sharing,
   effectiveness of social prescribing initiatives in Singapore.
 image: /images/singapore community of practice in social prescribing.png
 permalink: /
-notification: '"More than 80 percent of health outcomes are related to
-  non-medical factors –  these are conditions in which people are born, grow,
-  work, live and age, also known as Social Determinants of Health. Social
-  prescribing addresses these Social Determinants of Health by linking patients
-  and clients to community assets to improve wellbeing."'
+notification: ""
 sections:
   - hero:
       title: SINGAPORE COMMUNITY OF PRACTICE IN SOCIAL PRESCRIBING
