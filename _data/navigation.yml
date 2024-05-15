@@ -2,4 +2,6 @@ logo: /images/singapore community of practice in social prescribing.png
 links:
   - title: About
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: About SCOMP
+        url: /permalink
