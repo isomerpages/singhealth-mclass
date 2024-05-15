@@ -23,7 +23,7 @@ sections:
       key_highlights:
         - title: ABOUT
           description: ""
-          url: https://cms.isomer.gov.sg/sites/singhealth-mclass/resourceRoom/about/resourceCategory/about-scomp/editPage/2024-05-14-post-SCOMP.md
+          url: https://cms.isomer.gov.sg/sites/singhealth-mclass/editPage/example-page.md
         - title: TRAININGS
           description: ""
           url: https://gmail.com
