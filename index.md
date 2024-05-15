@@ -26,7 +26,7 @@ sections:
           url: https://cms.isomer.gov.sg/sites/singhealth-mclass/editPage/example-page.md
         - title: TRAININGS
           description: ""
-          url: https://gmail.com
+          url: ""
         - title: EVENTS
           description: ""
           url: /privacy/
