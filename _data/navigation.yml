@@ -1,9 +1,2 @@
 logo: /images/singapore community of practice in social prescribing.png
-links:
-  - title: About
-    url: /About
-    sublinks:
-      - title: About SCOMP
-        url: /About
-  - title: Our Programmes
-    resource_room: true
+links: []
