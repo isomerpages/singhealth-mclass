@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  navigation:
     output: true
     order:
       - About.md
