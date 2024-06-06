@@ -19,7 +19,7 @@ sections:
       key_highlights:
         - title: ABOUT
           description: ""
-          url: /example-page.md
+          url: /about
         - title: TRAININGS
           description: ""
           url: ""
