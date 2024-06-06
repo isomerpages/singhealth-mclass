@@ -19,7 +19,7 @@ sections:
       key_highlights:
         - title: ABOUT
           description: ""
-          url: /about
+          url: /About Singapore Community of Practice (SCOMP)
         - title: TRAININGS
           description: ""
           url: ""
