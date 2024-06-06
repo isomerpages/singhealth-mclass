@@ -2,6 +2,5 @@ collections:
   navigation:
     output: true
     order:
-      - About.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
