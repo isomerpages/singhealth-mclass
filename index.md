@@ -6,7 +6,9 @@ description: Built on the foundation of best practices in knowledge sharing,
   effectiveness of social prescribing initiatives in Singapore.
 image: /images/singapore community of practice in social prescribing.png
 permalink: /
-notification: ""
+notification: "Please beware of phishing or scam attempts. SCOMP will never ask
+  or request for your personal details via SMS notifications and / or automated
+  phone messages. "
 sections:
   - hero:
       title: SINGAPORE COMMUNITY OF PRACTICE IN SOCIAL PRESCRIBING
