@@ -40,6 +40,6 @@ sections:
         of all ages!
       button: Register now
       url: https://form.gov.sg/65b719e63f3702432ba8e892
-      image: /images/TEST_88_width_edited.jpg
+      image: /images/SP2024.jpg
       alt: Image alt text
 ---
