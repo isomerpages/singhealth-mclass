@@ -42,4 +42,18 @@ sections:
       url: https://form.gov.sg/65b719e63f3702432ba8e892
       image: /images/SP2024.jpg
       alt: Image alt text
+  - infocols:
+      title: THE 5 PRINCIPLES
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Shared Identity &  Purpose
+          description: SCOMP members share a common commitment to promote social
+            prescribing to improve health outcomes and wellbeing.
+        - title: Mutual Learning & Support
+          description: SCOMP members can share experiences, insights, challenges, and best
+            practices in a psychologically safe space.
+        - title: Intersectoral &  Interdisciplinary  Collaboration
+          description: Collaboration among diverse professionals to ensure a holistic
+            approach to social prescribing.
 ---
