@@ -20,16 +20,16 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: ABOUT
-          description: ""
+          description: What's SCOMP
           url: /About Singapore Community of Practice (SCOMP)
         - title: TRAININGS
-          description: ""
+          description: Upcoming Trainings
           url: ""
         - title: EVENTS
-          description: ""
+          description: Past & Upcoming Events
           url: /privacy/
         - title: RESOURCES
-          description: ""
+          description: Videos, Papers & Publications
           url: ""
   - infopic:
       title: Asia Pacific Social Prescribing Conference 2024
