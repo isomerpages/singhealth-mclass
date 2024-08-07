@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: "Singapore Community of Practice in Social Prescribing  (SCOMP) "
+agency_name: Singapore Community of Practice in Social Prescribing  (SCOMP)
 locations:
   - address:
       - 10 Boulevard
@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+        description: Closed on Saturdays and Sundays and Public Holidays
     maps_link: ""
     title: Outram Community Hospital
 contacts:
