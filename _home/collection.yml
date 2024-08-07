@@ -1,5 +1,5 @@
 collections:
-  about:
+  home:
     output: true
     order:
       - About SCOMP.md
