@@ -16,7 +16,7 @@ sections:
         leaders, and practitioners committed to advancing social prescribing in
         Singapore.
       background: /images/Home.png
-      button: JOIN Us
+      button: Subscribe
       url: /contact-us/
       key_highlights:
         - title: ABOUT
