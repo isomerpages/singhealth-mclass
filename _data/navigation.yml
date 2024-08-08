@@ -11,7 +11,7 @@ links:
     url: /training/
     sublinks:
       - title: Upcoming Courses
-        url: /courses
+        url: /courses/
   - title: Events
     url: /permalink
     sublinks:
