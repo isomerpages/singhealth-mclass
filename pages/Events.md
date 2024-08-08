@@ -12,7 +12,6 @@ and maximise their impact. Regular engagements and events will be the platform
 for practitioners to connect with each other and to stay up-to-date with
 the latest research and best practices in the field. This will help to
 create a vibrant and engaged Singapore community of social practitioners
-who are passionate about social prescribing.<strong>ENGAGEMENTS &amp; EVENTS</strong>
-</p>
+who are passionate about social prescribing.</p>
 <h4></h4>
 <p></p>
