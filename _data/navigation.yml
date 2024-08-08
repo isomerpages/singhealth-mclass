@@ -4,7 +4,7 @@ links:
     url: /about
     sublinks:
       - title: About SCOMP
-        url: /permalink
+        url: /About
   - title: Trainings
     url: /permalink
     sublinks:
