@@ -13,7 +13,7 @@ links:
       - title: Upcoming Courses
         url: /courses/
   - title: Events
-    url: /permalink
+    url: /events/
     sublinks:
       - title: Upcoming Events
         url: /permalink
