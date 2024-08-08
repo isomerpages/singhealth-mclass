@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Saturdays and Sundays and Public Holidays
+        description: Closed on Saturdays, Sundays and Public Holidays
     maps_link: ""
     title: Outram Community Hospital
 contacts:
