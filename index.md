@@ -27,8 +27,8 @@ sections:
         - title: EVENTS
           description: Upcoming Events
           url: /upcoming-events/
-        - title: RESOURCES
-          description: Videos, Papers & Publications
+        - title: RESOURCES & MEDIA
+          description: Publications
           url: ""
   - infopic:
       title: Asia Pacific Social Prescribing Conference 2024
