@@ -4,7 +4,7 @@ permalink: /faq/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Our Approach</strong></h3>
+<h3><strong>The Approach</strong></h3>
 <ol>
 <li>
 <p><strong>Capacity Building</strong> - Providing training, workshops, and
