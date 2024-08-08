@@ -23,7 +23,7 @@ sections:
           url: /about
         - title: TRAININGS
           description: Upcoming Trainings
-          url: ""
+          url: /trainings
         - title: EVENTS
           description: Past & Upcoming Events
           url: /privacy/
