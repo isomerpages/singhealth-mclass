@@ -24,6 +24,21 @@ skills to use tools to assess SDOH, find assets in the community to support
 patients and co-develop personalised care plans.</div>
 <div class="isomer-card-link">Click to register</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Motivational interviewing" src="/images/MI.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Motivational Interviewing for Social Prescribing (Keep a lookout for more
+updates!)</div>
+<div class="isomer-card-description">Motivational Interviewing (MI) is an evidence-based approach to behaviour
+change in healthcare, social work and many other settings. MI works by
+activating clients’ personal motivation and commitment towards better health,
+in an atmosphere of compassion and acceptance.</div>
+</div>
+</div>
 </div>
 <p></p>
