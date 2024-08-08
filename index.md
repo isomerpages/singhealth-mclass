@@ -25,8 +25,8 @@ sections:
           description: Upcoming Courses
           url: /courses/
         - title: EVENTS
-          description: Past & Upcoming Events
-          url: /privacy/
+          description: Upcoming Events
+          url: /upcoming-events/
         - title: RESOURCES
           description: Videos, Papers & Publications
           url: ""
