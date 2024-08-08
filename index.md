@@ -20,10 +20,10 @@ sections:
       key_highlights:
         - title: ABOUT
           description: What's SCOMP
-          url: /about
+          url: /about/scomp
         - title: TRAININGS
           description: Upcoming Trainings
-          url: /trainings
+          url: /training/
         - title: EVENTS
           description: Past & Upcoming Events
           url: /privacy/
