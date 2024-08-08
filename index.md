@@ -22,8 +22,8 @@ sections:
           description: What's SCOMP
           url: /about/scomp
         - title: TRAININGS
-          description: Upcoming Trainings
-          url: /training/
+          description: Upcoming Courses
+          url: /courses/
         - title: EVENTS
           description: Past & Upcoming Events
           url: /privacy/
