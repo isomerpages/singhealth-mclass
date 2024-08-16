@@ -23,6 +23,10 @@ toolkits, guidelines and other educational materials and making them accessible
 to all practitioners and participants.
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/online_conference.png">
+</div>
 <p><strong>Events &amp; Engagement</strong>&nbsp;- Inviting experts from
 social prescribing and related fields to share insights, research, and
 experiences to enrich the collective knowledge of SCOMP.</p>
