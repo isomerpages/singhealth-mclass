@@ -16,7 +16,7 @@ links:
     url: /events/
     sublinks:
       - title: Upcoming Events
-        url: /permalink
+        url: /upcoming-events/
       - title: Past Events
         url: /permalink
   - title: Resources & Media
