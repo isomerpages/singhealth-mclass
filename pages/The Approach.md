@@ -7,24 +7,26 @@ description: ""
 <h3><strong>The Approach</strong></h3>
 <ol>
 <li>
+<p></p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/capacity.png">
+</div>
 <p><strong>Capacity Building</strong> - Providing training, workshops, and
 keynote speaker sessions to enhance the skills and knowledge of practitioners
-involved in social prescribing.</p>
-</li>
-<li>
+involved in social prescribing.
+<br>
+</p>
 <p><strong>Resources Repository</strong> - Creating and maintaining resources,
 toolkits, guidelines and other educational materials and making them accessible
-to all practitioners and participants.</p>
-</li>
-<li>
+to all practitioners and participants.
+<br>
+</p>
 <p><strong>Events &amp; Engagement</strong>&nbsp;- Inviting experts from
 social prescribing and related fields to share insights, research, and
 experiences to enrich the collective knowledge of SCOMP.</p>
-</li>
-<li>
 <p><strong>Peer Support</strong> - Members actively engage in peer-to-peer
 mentoring and knowledge sharing to address challenges and explore innovative
 solutions.</p>
-</li>
-</ol>
 <p></p>
