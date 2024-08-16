@@ -4,7 +4,7 @@ permalink: /past-events/
 variant: tiptap
 description: ""
 ---
-<h2>OUR PAST EVENTS</h2>
+<h2><strong>OUR PAST EVENTS</strong></h2>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/singhealth-mclass/media/images/mediaDirectory/images%2FSPCONF2022" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SPconf2022" src="/images/Holding_Page_R3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">1st Asia Pacific Social Prescribing Conference</div><div class="isomer-card-link">Click to view photos</div></div></a>
