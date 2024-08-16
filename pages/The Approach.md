@@ -9,9 +9,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/capacity.png">
 </div>
-<p><strong>Capacity Building</strong> - Providing training, workshops, and
-keynote speaker sessions to enhance the skills and knowledge of practitioners
-involved in social prescribing.
+<p><strong>Capacity Building</strong>
+<br>- Providing training, workshops, and keynote speaker sessions to enhance
+the skills and knowledge of practitioners involved in social prescribing.
 <br>
 </p>
 <p></p>
