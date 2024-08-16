@@ -9,7 +9,7 @@ description: Singapore community of practice
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/singapore community of practice in social prescribing.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/singapore community of practice in social prescribing.png">
 </div>
 <blockquote>
 <h2><strong>OUR PURPOSE</strong></h2>
@@ -33,3 +33,4 @@ and promoting inclusive well-being. Members will be inspired to cultivate
 a culture of learning, advocacy, and continuous improvement, leading the
 way in shaping effective and sustainable social prescribing practices that
 positively impact individuals, communities, and society as a whole.</p>
+<p></p>
