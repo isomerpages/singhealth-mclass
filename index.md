@@ -30,15 +30,4 @@ sections:
         - title: RESOURCES & MEDIA
           description: Publications
           url: ""
-  - infopic:
-      title: Asia Pacific Social Prescribing Conference 2024
-      subtitle: Highlights
-      id: infopic
-      description: Join us for the conferences on 28 & 29 November as we chart the way
-        the ahead and address the diverse and evolving needs of city populations
-        of all ages!
-      button: Register now
-      url: https://form.gov.sg/65b719e63f3702432ba8e892
-      image: /images/SP2024.jpg
-      alt: Image alt text
 ---
