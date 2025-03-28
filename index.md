@@ -30,4 +30,14 @@ sections:
         - title: RESOURCES & MEDIA
           description: Publications
           url: ""
+  - announcements:
+      title: World Health Organization Collaborating Centre
+      id: announcements
+      announcement_items:
+        - title: WHO CC
+          date: 13 December 2024
+          announcement: WHO designates SingHealth Community Hospitals as the world’s first
+            Collaborating Centre for social prescribing
+          link_text: ""
+          link_url: ""
 ---
