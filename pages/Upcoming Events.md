@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>UPCOMING EVENTS</strong></h1>
-<p></p>
-<p><a href="https://form.gov.sg/65b719e63f3702432ba8e892" rel="noopener noreferrer nofollow" target="_blank">Registration</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Registration</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SPconf2024" src="/images/TEST_88_width_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Social Prescribing Masterclass 2025" src="/images/Social_Prescribing_Masterclass__1_.png">
 </div>
 <p></p>
