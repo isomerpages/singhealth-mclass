@@ -21,8 +21,6 @@ while helping them rediscover their sense of purpose and build meaningful
 connections through active community engagement.&nbsp;<a href="https://www.who.int/westernpacific/newsroom/feature-stories/item/who-designates-singhealth-community-hospitals-as-the-world-s-first-collaborating-centre-for-social-prescribing" rel="noopener nofollow" target="_blank">Read More</a>
 </p>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO_Collaborating.jpg">
 </div>
