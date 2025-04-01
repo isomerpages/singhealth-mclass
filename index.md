@@ -40,4 +40,9 @@ sections:
             Collaborating Centre for social prescribing
           link_text: ""
           link_url: ""
+        - title: Social Prescribing Masterclass
+          date: 01 April 2025
+          announcement: Exclusive Event for SCOMP Members  27 & 28 May 2025
+          link_text: ""
+          link_url: ""
 ---
