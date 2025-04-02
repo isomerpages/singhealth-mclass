@@ -31,10 +31,10 @@ sections:
           description: Publications
           url: ""
   - announcements:
-      title: World Health Organization Collaborating Centre
+      title: Announcements
       id: announcements
       announcement_items:
-        - title: WHO CC
+        - title: World Health Organization Collaborating Centre
           date: 13 December 2024
           announcement: WHO designates SingHealth Community Hospitals as the world’s first
             Collaborating Centre for social prescribing
@@ -45,4 +45,13 @@ sections:
           announcement: Exclusive Event for SCOMP Members  27 & 28 May 2025
           link_text: ""
           link_url: ""
+  - infopic:
+      title: Social Prescribing Reimagined
+      subtitle: Social Prescribing Masterclass
+      id: infopic
+      description: An Asset-based Community Development Perspective
+      button: Click to Find More
+      url: for.sg/spm25
+      image: /images/Social_Prescribing_Masterclass__1_.png
+      alt: Image alt text
 ---
