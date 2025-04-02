@@ -50,7 +50,7 @@ sections:
       subtitle: Social Prescribing Masterclass
       id: infopic
       description: An Asset-based Community Development Perspective
-      button: Click to Find More
+      button: Register Now
       url: for.sg/spm25
       image: /images/Social_Prescribing_Masterclass__1_.png
       alt: Image alt text
