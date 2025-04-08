@@ -29,7 +29,7 @@ sections:
           url: /upcoming-events/
         - title: WHO CC
           description: Collabrating Centre
-          url: ""
+          url: /who cc/
   - announcements:
       title: Announcements
       id: announcements
