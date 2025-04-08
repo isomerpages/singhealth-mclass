@@ -28,7 +28,7 @@ description: ""
 <div class="isomer-card-title">DIGITAL SOCIAL PRESCRIBING</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Screenshot_2023_08_19_at_11_37_58_PM__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">IMPLEMENTATION OF SOCIAL PRESCRIBING</div><div class="isomer-card-description">THELANCET</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Screenshot_2023_08_19_at_11_37_58_PM__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">IMPLEMENTATION OF SOCIAL PRESCRIBING</div><div class="isomer-card-description">THE LANCET</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -39,6 +39,6 @@ description: ""
 <div class="isomer-card-title">ART THERAPY, BEFRIENDING SERVICES</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="place" src="/images/nam7iicl.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ADVANCING SOCIAL PRESCRIBING IN SINGAPORE</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="place" src="/images/nam7iicl.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ADVANCING SOCIAL PRESCRIBING IN SINGAPORE</div><div class="isomer-card-description">THE LANCET</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
