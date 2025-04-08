@@ -48,7 +48,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">BUILDING A GLOBAL SOCIAL PRESCRIBING MOVEMENT</div>
-<div class="isomer-card-link">Play the video</div>
+<div class="isomer-card-link">Click to play</div>
 </div>
 </a>
 </div>
