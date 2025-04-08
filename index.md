@@ -27,8 +27,8 @@ sections:
         - title: EVENTS
           description: Upcoming Events
           url: /upcoming-events/
-        - title: RESOURCES & MEDIA
-          description: Publications
+        - title: WHO CC
+          description: Collabrating Centre
           url: ""
   - announcements:
       title: Announcements
