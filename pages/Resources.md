@@ -40,5 +40,16 @@ description: ""
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="place" src="/images/nam7iicl.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ADVANCING SOCIAL PRESCRIBING IN SINGAPORE</div><div class="isomer-card-description">THE LANCET</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=_X2p2uabltE&amp;t=2s" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="video" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">BUILDING A GLOBAL SOCIAL PRESCRIBING MOVEMENT</div>
+<div class="isomer-card-link">Play the video</div>
+</div>
+</a>
 </div>
 <p></p>
