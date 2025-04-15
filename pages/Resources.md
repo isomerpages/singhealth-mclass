@@ -1,28 +1,23 @@
 ---
 title: Resources
 permalink: /resources/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2><strong>Social prescribing practitioners can find a wealth of resources to support their work. These include resources such as videos, papers and publications from social prescribing experts and practitioners.&nbsp;</strong></h2>
-
-
-<div class="isomer-card-grid">
-	<a rel="noopener noreferrer nofollow" href="https://staging-lite.dhoyx552vpozs.amplifyapp.com/files/Social_Prescribing_ToolKit__WHO_2022_.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2023_08_19_at_11_21_00_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ADDRESSING SOCIAL DETERMINANTS OF HEALTH IN A PANDEMIC</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.dhoyx552vpozs.amplifyapp.com/files/Social_Prescribing_ToolKit__WHO_2022_.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2023_08_19_at_11_21_00_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ADDRESSING SOCIAL DETERMINANTS OF HEALTH IN A PANDEMIC</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging-lite.dhoyx552vpozs.amplifyapp.com/files/Social_Prescribing_ToolKit__WHO_2022_.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2023_08_19_at_11_14_53_PM.png">
 </div>
 </div>
-	
 <div class="isomer-card-body">
 <div class="isomer-card-title">A TOOL ON HOW TO IMPLEMENT SOCIAL PRESCRIBING</div>
 <div class="isomer-card-description">World Health Organization</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a>
-	<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/540gkkr9.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GLOBAL DEVELOPMENTS IN SOCIAL PRESCRIBING</div><div class="isomer-card-description">Thebmj</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.socialprescribing.sg/_files/ugd/0a9ba7_a8dbb65bb30843dd92e9514c72e7d5c6.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/540gkkr9.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GLOBAL DEVELOPMENTS IN SOCIAL PRESCRIBING</div><div class="isomer-card-description">Thebmj</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
