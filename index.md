@@ -28,7 +28,7 @@ sections:
           description: Upcoming Events
           url: /upcoming-events/
         - title: WHO CC
-          description: Collabrating Centre
+          description: Collaborating Centre
           url: /who-cc/
   - announcements:
       title: Announcements
