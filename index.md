@@ -30,6 +30,10 @@ sections:
         - title: WHO CC
           description: Collaborating Centre
           url: /who-cc/
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - announcements:
       title: Announcements
       id: announcements
