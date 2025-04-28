@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - WHO CC.md
       - About Singapore Community of Practice (SCOMP).md
+      - WHO CC.md
