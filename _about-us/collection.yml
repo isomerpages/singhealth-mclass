@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Governance.md
-      - Our Team.md
-      - Our Journey.md
-      - WHO Collaborating Centre Overview.md
       - About Singapore Community of Practice (SCOMP).md
+      - WHO Collaborating Centre Overview.md
+      - Our Journey.md
+      - Our Team.md
+      - Governance.md
       - About Us/.keep
