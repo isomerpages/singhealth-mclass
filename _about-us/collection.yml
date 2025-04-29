@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Governance.md
       - Our Team.md
       - Our Journey.md
       - WHO Collaborating Centre Overview.md
