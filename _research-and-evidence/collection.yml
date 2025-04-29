@@ -1,6 +1,0 @@
-collections:
-  research-and-evidence:
-    output: true
-    order:
-      - Evidence Repository and Publications.md
-      - Ongoing Projects.md
