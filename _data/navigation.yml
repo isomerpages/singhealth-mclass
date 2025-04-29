@@ -11,25 +11,9 @@ links:
         url: /about-us/our-team/
       - title: Governance
         url: /about-us/governance/
-  - title: Trainings
-    url: /training/
-    sublinks:
-      - title: Upcoming Courses
-        url: /courses/
-  - title: Events
-    url: /events/
-    sublinks:
-      - title: Upcoming Events
-        url: /upcoming-events/
-      - title: Past Events
-        url: /past-events/
-  - title: Resources & Media
-    url: /resources
-    sublinks: []
-  - title: WHO CC
-    url: /who-cc/
-    sublinks: []
   - title: Research and Evidence
     resource_room: true
+  - title: Training and Education
+    collection: training-and-education
   - title: Contact Us
     url: /contact-us/
