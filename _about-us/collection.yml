@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - About Us/Governance.md
       - About Us/Our Team.md
       - About Us/Our Journey.md
       - About Us/WHO Collaborating Centre Overview.md
