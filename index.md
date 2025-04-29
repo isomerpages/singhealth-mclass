@@ -34,15 +34,15 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Social Prescribing Masterclass
+          date: 01 April 2025
+          announcement: Exclusive Event for SCOMP Members  27 & 28 May 2025
+          link_text: ""
+          link_url: ""
         - title: World Health Organization Collaborating Centre
           date: 13 December 2024
           announcement: WHO designates SingHealth Community Hospitals as the world’s first
             Collaborating Centre for social prescribing
-          link_text: ""
-          link_url: ""
-        - title: Social Prescribing Masterclass
-          date: 01 April 2025
-          announcement: Exclusive Event for SCOMP Members  27 & 28 May 2025
           link_text: ""
           link_url: ""
   - infopic:
