@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/About Singapore Community of Practice (SCOMP).md
       - About Us/WHO Collaborating Centre Overview.md
       - About Us/Our Journey.md
       - About Us/Our Team.md
