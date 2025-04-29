@@ -2,5 +2,5 @@ collections:
   research-and-evidence:
     output: true
     order:
-      - Ongoing Projects.md
       - Evidence Repository and Publications.md
+      - Ongoing Projects.md
