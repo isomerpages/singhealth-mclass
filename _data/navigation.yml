@@ -2,11 +2,7 @@ logo: /images/singapore community of practice in social prescribing.png
 links:
   - title: About Us
     url: /about-us/scomp
-    sublinks:
-      - title: Our Partners
-        url: /about/partners
-      - title: The Approach
-        url: /approach
+    sublinks: []
   - title: Trainings
     url: /training/
     sublinks:
