@@ -55,7 +55,7 @@ staging: https://staging.dysll6ah8iy92.amplifyapp.com
 prod: https://master.dysll6ah8iy92.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/singapore community of practice in social prescribing.png
-is_government: true
+is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
