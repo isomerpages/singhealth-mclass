@@ -1,8 +1,16 @@
 logo: /images/singapore community of practice in social prescribing.png
 links:
   - title: About Us
-    url: /about-us/scomp
-    sublinks: []
+    url: /about-us/scomp/
+    sublinks:
+      - title: WHO Collaborating Centre
+        url: /about-us/who-c-c-overview/
+      - title: Our Journey
+        url: /about-us/our-journey/
+      - title: Our Team
+        url: /about-us/our-team/
+      - title: Governance
+        url: /about-us/governance/
   - title: Trainings
     url: /training/
     sublinks:
