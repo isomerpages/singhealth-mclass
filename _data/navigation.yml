@@ -3,6 +3,8 @@ links:
   - title: About Us
     url: /about-us/scomp/
     sublinks:
+      - title: SCOMP
+        url: /about-us/scomp/
       - title: WHO Collaborating Centre
         url: /about-us/who-c-c-overview/
       - title: Our Journey
