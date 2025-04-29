@@ -2,4 +2,5 @@ collections:
   training-and-education:
     output: true
     order:
+      - Webinar and Events.md
       - Courses and Workshops.md
