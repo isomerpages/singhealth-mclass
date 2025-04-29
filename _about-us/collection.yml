@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Journey.md
       - WHO Collaborating Centre Overview.md
       - About Singapore Community of Practice (SCOMP).md
       - About Us/.keep
