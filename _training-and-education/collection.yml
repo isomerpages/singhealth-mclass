@@ -2,7 +2,7 @@ collections:
   training-and-education:
     output: true
     order:
-      - Past Events.md
-      - Upcoming Events.md
       - Courses and Workshops.md
+      - Upcoming Events.md
+      - Past Events.md
       - Webinar and Events.md
