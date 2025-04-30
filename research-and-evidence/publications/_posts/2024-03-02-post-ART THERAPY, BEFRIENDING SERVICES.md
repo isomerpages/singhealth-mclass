@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="https://www.socialprescribing.sg/_files/ugd/adc38f_ed5c5e675d29414e8e90839ca755a9fc.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
