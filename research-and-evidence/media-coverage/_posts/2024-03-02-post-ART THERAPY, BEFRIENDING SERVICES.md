@@ -9,5 +9,5 @@ variant: tiptap
 ---
 <p>Paragraph</p>
 <p></p>
-<p><a href="https://www.socialprescribing.sg/_files/ugd/adc38f_ed5c5e675d29414e8e90839ca755a9fc.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="https://staging-lite.dhoyx552vpozs.amplifyapp.com/research-and-evidence/files/Social_Prescribing_ToolKit__WHO_2022_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
