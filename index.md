@@ -23,13 +23,13 @@ sections:
           url: /about-us/scomp/
         - title: TRAININGS
           description: Upcoming Courses
-          url: /courses/
+          url: /training-and-education/courses-and-workshops/
         - title: EVENTS
           description: Upcoming Events
-          url: /upcoming-events/
+          url: /training-and-education/upcoming-events/
         - title: WHO CC
           description: Collaborating Centre
-          url: /who-cc/
+          url: /about-us/who-c-c-overview/
   - announcements:
       title: Announcements
       id: announcements
