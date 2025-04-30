@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Courses.md
-      - Courses and Workshops.md
       - Webinar and Events.md
