@@ -20,7 +20,7 @@ sections:
       key_highlights:
         - title: ABOUT
           description: What's SCOMP
-          url: /about/scomp
+          url: /about-us/scomp/
         - title: TRAININGS
           description: Upcoming Courses
           url: /courses/
