@@ -6,5 +6,7 @@ description: ""
 ---
 <h2><strong>Upcoming Events</strong></h2>
 <p></p>
+<p></p>
+<hr>
 <h2><strong>Past Events</strong></h2>
 <p></p>
