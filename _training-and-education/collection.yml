@@ -2,6 +2,7 @@ collections:
   training-and-education:
     output: true
     order:
+      - SCOMP in Social Prescribing Engagement 1.md
       - Courses and Workshops.md
       - Upcoming Events.md
       - Past Events.md
