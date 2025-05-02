@@ -11,14 +11,14 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/singhealth-mclass/media/images/mediaDirectory/images%2FSPMasterclass2023" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Masterclass2023" src="/images/SPmasterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="Masterclass2023" src="/images/Events/Social_Prescribing_Masterclass_with_International_Experts_Events.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Social Prescribing Masterclass with International Experts</div>
 <div class="isomer-card-link">Click to view photos</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/z34ABPYB5OE" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/scomp2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Community of Practice in Social Prescribing (SCOMP) Engagement #1</div><div class="isomer-card-link">Click to view video</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/z34ABPYB5OE" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Events/SCOMP_in_Social_Prescribing_Engagement_1_Events.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Community of Practice in Social Prescribing (SCOMP) Engagement #1</div><div class="isomer-card-link">Click to view video</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/B4K1QAc-BnU" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
