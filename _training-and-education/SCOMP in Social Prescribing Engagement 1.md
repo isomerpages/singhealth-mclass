@@ -5,6 +5,6 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z34ABPYB5OE?si=HDlfYSe6-O4b2nM8"></iframe>
+<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z34ABPYB5OE?si=VKaCR4rkUwfqN6En"></iframe>
 </div>
 <p></p>
