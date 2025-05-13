@@ -4,23 +4,25 @@ permalink: /about-us/who-c-c-overview/
 variant: tiptap
 description: World Health Organization (WHO) Collaborating Centre
 ---
-<h1><strong>WHO designates SingHealth Community Hospitals as the world’s first Collaborating Centre for social prescribing</strong></h1>
-<p>Healthy ageing goes beyond merely increasing life expectancy—it focuses
-on empowering individuals to achieve and engage in what they value most.
-The World Health Organization (WHO) defines healthy ageing as 'the process
-of developing and maintaining the functional ability that enables well-being
-in older age.' Functional ability is influenced by an individual's intrinsic
-capacity, the features of their environment, and the dynamic interaction
-between them. Therefore, fostering supportive environments where older
-adults can thrive is crucial for healthy ageing.</p>
-<p>Social prescribing—a model connecting individuals to non-clinical community
-services—has emerged as a critical tool for addressing social determinants
-of health, loneliness, mental health, and social inclusion. In Singapore,
-this approach is gaining momentum, fostering a continuum of care for patients
-while helping them rediscover their sense of purpose and build meaningful
-connections through active community engagement.&nbsp;<a href="https://www.who.int/westernpacific/newsroom/feature-stories/item/who-designates-singhealth-community-hospitals-as-the-world-s-first-collaborating-centre-for-social-prescribing" rel="noopener nofollow" target="_blank">Read More</a>
-</p>
-<p></p>
+<h1><strong>World Health Organization Collaborating Centre (WHO CC) for Social Prescribing</strong></h1>
+<p>SingHealth Community Hospitals (SCH) has been appointed a World Health
+Organization (WHO) Collaborating Centre for Social Prescribing effective
+14 November. As a Collaborating Centre, SCH will focus on three key areas,
+particularly capacity building, collaboration, and research.​</p>
+<p>Being the first WHO Collaborating Centre for Social Prescribing in the
+world, the Collaborating Centre is geared to advance social prescribing
+practices globally in three key areas:</p>
+<p>1. Capacity building: To enhance awareness, knowledge and best practices
+in social prescribing through workshops and training, thereby equipping
+stakeholders who are interested in starting social prescribing in their
+settings.</p>
+<p>2. Collaboration: To develop and update training content in social prescribing
+that can be used regionally and internationally for different audience
+groups, including practitioners and policymakers.</p>
+<p>​3. Research: To conduct studies to strengthen evidence sharing amongst
+stakeholders, support informed policy decisions and programme evaluations,
+and contribute to regional and global evidence building for the impact
+of social prescribing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO_Collaborating.jpg">
 </div>
