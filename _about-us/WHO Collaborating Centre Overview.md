@@ -5,6 +5,9 @@ variant: tiptap
 description: World Health Organization (WHO) Collaborating Centre
 ---
 <h1><strong>World Health Organization Collaborating Centre (WHO CC) for Social Prescribing</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO CC/WHO_CC_1.png">
+</div>
 <p>SingHealth Community Hospitals (SCH) has been appointed a World Health
 Organization (WHO) Collaborating Centre for Social Prescribing effective
 14 November. As a Collaborating Centre, SCH will focus on three key areas,
@@ -24,18 +27,18 @@ stakeholders, support informed policy decisions and programme evaluations,
 and contribute to regional and global evidence building for the impact
 of social prescribing.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO_Collaborating.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO CC/WHO_CC_1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO CC/WHO_CC_2.png">
 </div>
-<p></p>
+<p>At the Asia Pacific Social Prescribing Conference, Minister for Health
+Mr Ong Ye Kung underscored the critical role of social and environmental
+influences on health and highlighted the importance of addressing the social
+determinants of health and affirmed the role of social prescribing as a
+key pillar in Singapore’s national preventive health strategy, Healthier
+SG.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO CC/WHO_CC_3.png">
 </div>
-<p></p>
+<p>Supporting healthy ageing and going beyond the healthcare sector, collaboration
+with National Arts Council aims to enhance the well-being of seniors, while
+also contributing to global conversations on the positive impact of the
+arts on health and wellness.</p>
