@@ -47,3 +47,6 @@ SG.</p>
 with National Arts Council aims to enhance the well-being of seniors, while
 also contributing to global conversations on the positive impact of the
 arts on health and wellness.</p>
+<p><a href="https://www.who.int/westernpacific/newsroom/feature-stories/item/who-designates-singhealth-community-hospitals-as-the-world-s-first-collaborating-centre-for-social-prescribing" rel="noopener nofollow" target="_blank">Read more</a>
+</p>
+<p></p>
