@@ -5,11 +5,9 @@ variant: tiptap
 description: World Health Organization (WHO) Collaborating Centre
 ---
 <h1><strong>World Health Organization Collaborating Centre (WHO CC) for Social Prescribing</strong></h1>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO CC/SCH_WHOCCSP_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO CC/SCH_WHOCCSP_Logo_1200.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHO CC/WHO_CC_1.png">
 </div>
