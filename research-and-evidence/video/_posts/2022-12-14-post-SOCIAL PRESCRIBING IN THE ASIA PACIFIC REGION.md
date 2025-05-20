@@ -7,4 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="iframe-wrapper">
+<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zQnxtyNJ500?si=OQGlullEiVNbwN6y"></iframe>
+</div>
 <p></p>
