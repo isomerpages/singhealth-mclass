@@ -11,5 +11,5 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media Coverage/Art_Therapy_Befriending_Services.png">
 </div>
-<p>Click <a href="https://www.socialprescribing.sg/_files/ugd/adc38f_ed5c5e675d29414e8e90839ca755a9fc.pdf" rel="noopener nofollow" target="_blank">here</a> to
-read the op-ed.</p>
+<p>Link to op-ed: <a href="https://www.socialprescribing.sg/_files/ugd/adc38f_ed5c5e675d29414e8e90839ca755a9fc.pdf" rel="noopener nofollow" target="_blank">Art Therapy, Befriending Services</a>
+</p>
